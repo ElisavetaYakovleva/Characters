@@ -124,8 +124,6 @@ a{
         width: calc(100% / 2);
         padding: 0px;
     }
-}
-@media (max-width:650px) {
     #slides{
         min-height: 180px;
     }
